@@ -1,0 +1,11 @@
+
+4.	Automasi
+Automasi adalah penggunaan skrip atau perangkat lunak untuk menjalankan  tugas tanpa campur tangan manusia. Contohnya :
+-	Automasi sistem: Memantau penggunaan CPU dan RAM secara otomatis.
+-	Automasi backup: Mengatur pencadangan data pada waktu tertentu.
+-	Automasi deployment: Mempermudah pengelolaan aplikasi dan server.
+5.	Keuntungan Shell Scripting dan Automasi
+-	Hemat Waktu: Tidak perlu menjalankan tugas secara manual.
+-	Meningkatkan Efisiensi: Memastikan tugas dilakukan dengan konsisten.
+-	Mengurangi Kesalahan: Minim risiko kesalahan manusia (human error).
+-	Meningkatkan Produktivitas: Administrasi sistem lebih mudah dilakukan.
