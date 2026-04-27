@@ -1,0 +1,24 @@
+3.	Dasar-Dasar Shell Scripting
+Skrip shell biasanya disimpan dalam file dengan ekstensi .sh dan bisa dieksekusi dengan perintah . Beberapa konsep dasar dalam Shell Scripting meliputi:
+a.	Variabel
+Menyimpan nilai yang bisa digunakan dalam skrip.
+nama="Kansas"
+echo "Halo, $nama!"
+
+b.	Kondisi
+-	Kondisi if dalam shell script
+Digunakan untuk mengevaluasi suatu kondisi dan menjalankan blok kode jika kondisi terpenuhi.
+#!/bin/bash
+read -p "Masukkan angka: " angka
+if [ $angka -gt 10 ]; then
+echo "Angka lebih besar dari 10"
+else
+echo "Angka kurang dari atau sama dengan 10"
+fi
+
+c.	Perulangan (, )
+Digunakan untuk menjalankan perintah berulang kali.
+for i in {1..5}
+do
+     echo "Angka $i"
+done
