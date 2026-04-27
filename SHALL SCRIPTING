@@ -1,0 +1,4 @@
+1.	Shell Scripting
+Shell Scripting adalah cara untuk menulis serangkaian perintah dalam sebuah file agar 
+bisa dieksekusi secara otomatis oleh shell di sistem operasi berbasis Unix/Linux. 
+Shell sendiri adalah antarmuka yang memungkinkan kita berkomunikasi dengan sistem operasi melalui command line. 
